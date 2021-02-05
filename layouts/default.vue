@@ -10,7 +10,7 @@ export default {
     link: [
       {
         rel: 'stylesheet',
-        href: 'https://rsms.me/inter/inter.css'
+        href: "https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&display=swap"
       }
     ]
   }
@@ -19,7 +19,7 @@ export default {
 
 <style>
 body {
-  font-family: 'Inter var', sans-serif;
+  font-family: 'Inter', sans-serif;
 }
 body {
   @apply subpixel-antialiased;
